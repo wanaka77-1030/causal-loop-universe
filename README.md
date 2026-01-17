@@ -133,6 +133,3 @@
 
 © 2026 五月风雪. 本文采用 [CC BY 4.0 许可协议](https://creativecommons.org/licenses/by/4.0/deed.zh)。  
 您可以自由分享、转载或改编本作品，只需注明原作者及出处。
-
-**永久链接**：  
-`https://wanaka77-1030.github.io/causal-loop-universe`
